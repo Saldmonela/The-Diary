@@ -1,0 +1,5 @@
+{
+  "name": "Glass Diary",
+  "description": "A personal diary application featuring a modern glassmorphism aesthetic, local storage persistence, and a seamless mobile-friendly design.",
+  "requestFramePermissions": []
+}
